@@ -4,4 +4,4 @@ Mobile First. Адаптивная вёрстка с использование�
 
 Используемые технологии: **HTML5**, **CSS3**, **CSS-Grid**, **Flexbox**, **JavaScript**, **jQuery**.
 
-![Mamon.Pro - Entire-Page](Mamon.Pro.png)
+![Mamon.Pro - Entire-Page](mamon.pro.jpg)
